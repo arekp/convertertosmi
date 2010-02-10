@@ -28,6 +28,7 @@
 = Informacje =
 
 Linki do opisu formatu SMI
+  * http://en.wikipedia.org/wiki/SAMI
   * http://msdn.microsoft.com/en-us/library/ms971327.aspx
   * http://msdn.microsoft.com/en-us/library/dd377542(VS.85).aspx
   * http://leksykot.top.hell.pl/tech/subtitle-formats
