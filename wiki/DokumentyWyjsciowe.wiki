@@ -1,0 +1,11 @@
+= Założenia =
+
+Budowa struktury nowego dokumentu
+
+
+= Informacje =
+
+Linki do opisu formatu SMI
+  * http://msdn.microsoft.com/en-us/library/ms971327.aspx
+  * http://msdn.microsoft.com/en-us/library/dd377542(VS.85).aspx
+  
